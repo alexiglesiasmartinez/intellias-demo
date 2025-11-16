@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+
+# --- Testing Dependencies ---
+pytest
+httpx
+anyio
+trio
